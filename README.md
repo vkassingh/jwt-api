@@ -15,7 +15,7 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-  * [Screenshots](#camera-screenshots)
+
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
   * [Environment Variables](#key-environment-variables)
@@ -30,12 +30,12 @@
 ## :star2: About the Project
 
 
-<!-- Screenshots -->
+<!-- Screenshots 
 ### :camera: Screenshots
 
 <div align="center"> 
   <img src="https://i.im.ge/2022/10/03/1Km2tx.photo-6181293439388332839-y.jpg" />
-</div>
+</div>-->
 
 
 <!-- TechStack -->
@@ -113,8 +113,8 @@ Start the server
 <!-- Roadmap -->
 ## :compass: Roadmap
 
-* [] Add Admin roles
-* [] Secure API routes
+* [ ] Add Admin roles
+* [ ] Secure API routes
 
 
 
