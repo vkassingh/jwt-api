@@ -88,7 +88,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/vkassingh/clever-crypto.git
+  git clone https://github.com/vkassingh/jwt-api.git
 ```
 
 Go to the project directory
